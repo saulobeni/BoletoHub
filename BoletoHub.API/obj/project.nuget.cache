@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "unJN+h+mv8o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Saulobeni\\Desktop\\BoletoHub\\BoletoHub.API\\BoletoHub.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Saulobeni\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "C:\\Users\\Saulobeni\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
